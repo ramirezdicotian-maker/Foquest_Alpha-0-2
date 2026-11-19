@@ -9,6 +9,9 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 UNAB - Universidad Autonoma de Bucaramanga // 2026 II
 
+JUGAR EN LINEA: https://ramirezdicotian-maker.github.io/Foquest_Alpha-0-2/
+(Tambien puedes descargar el repositorio y abrir index.html en tu navegador)
+
 ANDRES FELIPE DIAZ MENESES
 JUAN FELIPE ARIAS LOPEZ
 DIEGO ANDRES MONTERO HERNANDEZ
